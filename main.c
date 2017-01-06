@@ -1,7 +1,7 @@
 #include <studio.h>
 
 int main(void){
-  printf("Hello World\n");
+  printf("Hello ISSU\n");
 
   return 0;
 }
