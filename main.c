@@ -1,7 +1,7 @@
 #include <studio.h>
 
 int main(void){
-  printf("Hello ISSU\n");
+  printf("Hello BIT\n");
 
   return 0;
 }
