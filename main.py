@@ -1,2 +1,1 @@
-print "Hello World!"
-prin "Hello Error"
+print("Hello World!")
